@@ -47,7 +47,7 @@ git remote -v
 
 ```
 
--
+- para subir del repositorio local al repositorio remoto
 
 ```
 git push -u origin master
